@@ -9,9 +9,9 @@ demo: developer_report
 # demo: all
 
 ## Ansible Tower login infomation
-my_tower_username: colin
-my_tower_password: mahalo
-my_tower_host: test.rhdemo.io
+my_tower_username: admin
+my_tower_password: Password12345
+my_tower_host: ansibletower.fidelitybank.ng
 workshop_type: rhel
 
 # leave as false unless you are deploying an Azure Demo 
